@@ -2,12 +2,12 @@
 
 ## Deploy on DatoCMS
 
-[![Deploy with DatoCMS](https://dashboard.datocms.com/deploy/button.svg)](https://dashboard.datocms.com/deploy?repo=datocms/nuxtjs-demo)
+[![Deploy with DatoCMS](https://dashboard.datocms.com/deploy/button.svg)](https://dashboard.datocms.com/deploy?repo=biomassives/mamawatoto-eco-school-datocms)
 
 Or set the API token manually:
 
 ```
-echo 'NUXT_ENV_DATOCMS_API_TOKEN=abc123' >> .env
+echo 'NUXT_ENV_DATOCMS_API_TOKEN=freedomiscommunity' >> .env
 ```
 
 ## Build Setup
