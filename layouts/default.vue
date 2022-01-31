@@ -27,10 +27,8 @@
     <footer class="footer">
       <div class="content has-text-centered">
         <p>
-          <strong>Mamawatoto Eco School, Machakos Kenya</strong> in partnership with <a href="https://scdhub.org">SCD Hub</a>. 
-          Making use of <a href="https://datocms.com">Cato CMS</a>
-          <a href="https://github.com">Github</a> & <a href="https://netlify.com">Netlify</a>.
-          Code Licensed <a href="https://opensource.org/licenses/GPL-3.0">GPL V3</a>
+          <strong>Mamawatoto Eco School, Machakos Kenya</strong> in partnership with <a href="https://scdhub.org">SCD Hub</a>.  Making use of <a href="https://datocms.com">Dato CMS</a> <a href="https://github.com">Github</a> & <a href="https://netlify.com">Netlify</a></p>
+	<p>Code Licensed <a href="https://opensource.org/licenses/GPL-3.0">GPL V3</a>
         </p>
       </div>
     </footer>
