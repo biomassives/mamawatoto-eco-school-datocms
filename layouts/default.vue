@@ -4,7 +4,7 @@
       <div class="container">
         <div class="navbar-brand">
           <nuxt-link class="navbar-item" to="/">
-            <img src="/bulma.png" alt="Logo" />
+            <img src="https://www.datocms-assets.com/62239/1643608046-mamawa0.png" alt="Mamawatoto Eco School Logo" />
           </nuxt-link>
           <span class="navbar-burger burger" v-on:click="toggleNavbar">
             <span></span>
@@ -27,11 +27,10 @@
     <footer class="footer">
       <div class="content has-text-centered">
         <p>
-          <strong>Bulma - Blog theme</strong> by
-          <a href="https://gonzalojs.com">Gonzalo Gutierrez</a>. Based on the
-          <a href="http://jigsaw-blog-staging.tighten.co/">jigsaw-blog</a>. The
-          source code is licensed
-          <a href="http://opensource.org/licenses/mit-license.php">MIT</a>
+          <strong>Mamawatoto Eco School, Machakos Kenya</strong> in partnership with <a href="https://scdhub.org">SCD Hub</a>. 
+          Making use of <a href="https://datocms.com">Cato CMS</a>
+          <a href="https://github.com">Github</a> & <a href="https://netlify.com">Netlify</a>.
+          Code Licensed <a href="https://opensource.org/licenses/GPL-3.0">GPL V3</a>
         </p>
       </div>
     </footer>
